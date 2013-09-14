@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/facu/projects/Distributions/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+cstring
+-
+cstdio
+-
+fstream
+-
+
